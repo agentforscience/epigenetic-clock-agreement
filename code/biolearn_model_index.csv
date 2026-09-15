@@ -1,0 +1,69 @@
+name,type,species,tissue,output,file,year,source
+Horvathv1,LinearMethylationModel,Human,Multi-tissue,Age (Years),Horvath1.csv,2013,https://genomebiology.biomedcentral.com/articles/10.1186/gb-2013-14-10-r115
+Hannum,LinearMethylationModel,Human,Blood,Age (Years),Hannum.csv,2013,https://www.sciencedirect.com/science/article/pii/S1097276512008933
+GPAge10,GPAgeModel,Human,Blood,Age (Years),GP-age_model_10_cpgs.json.zip,2023,https://www.cell.com/cell-reports-methods/fulltext/S2667-2375(23)00211-4
+GPAge30,GPAgeModel,Human,Blood,Age (Years),GP-age_model_30_cpgs.json.zip,2023,https://www.cell.com/cell-reports-methods/fulltext/S2667-2375(23)00211-4
+GPAge71,GPAgeModel,Human,Blood,Age (Years),GP-age_model_71_cpgs.json.zip,2023,https://www.cell.com/cell-reports-methods/fulltext/S2667-2375(23)00211-4
+GPAgeA,GPAgeModel,Human,Blood,Age (Years),GP-age_model_a.json.zip,2023,https://www.cell.com/cell-reports-methods/fulltext/S2667-2375(23)00211-4
+GPAgeB,GPAgeModel,Human,Blood,Age (Years),GP-age_model_b.json.zip,2023,https://www.cell.com/cell-reports-methods/fulltext/S2667-2375(23)00211-4
+GPAgeC,GPAgeModel,Human,Blood,Age (Years),GP-age_model_c.json.zip,2023,https://www.cell.com/cell-reports-methods/fulltext/S2667-2375(23)00211-4
+Lin,LinearMethylationModel,Human,Blood,Age (Years),Lin.csv,2016,https://www.aging-us.com/article/100908/text
+PhenoAge,LinearMethylationModel,Human,Blood,Age (Years),PhenoAge.csv,2018,https://www.aging-us.com/article/101414/text
+YingCausAge,LinearMethylationModel,Human,Blood,Age (Years),YingCausAge.csv,2022,https://www.biorxiv.org/content/10.1101/2022.10.07.511382v2
+YingDamAge,LinearMethylationModel,Human,Blood,Age (Years),YingDamAge.csv,2022,https://www.biorxiv.org/content/10.1101/2022.10.07.511382v2
+YingAdaptAge,LinearMethylationModel,Human,Blood,Age (Years),YingAdaptAge.csv,2022,https://www.biorxiv.org/content/10.1101/2022.10.07.511382v2
+Horvathv2,LinearMethylationModel,Human,Skin + blood,Age (Years),Horvath2.csv,2018,https://www.aging-us.com/article/101508/text
+PEDBE,LinearMethylationModel,Human,Buccal,Age (Years),PEDBE.csv,2019,https://www.pnas.org/doi/10.1073/pnas.1820843116
+Zhang_10,LinearMethylationModel,Human,Blood,Mortality Risk,Zhang_10.csv,2019,https://www.nature.com/articles/ncomms14617
+DunedinPoAm38,LinearMethylationModel,Human,Blood,Aging Rate (Years/Year),DunedinPoAm38.csv,2020,https://elifesciences.org/articles/54870#s2
+DunedinPACE,LinearMethylationModel,Human,Blood,Aging Rate (Years/Year),DunedinPACE.csv,2022,https://www.proquest.com/docview/2634411178
+DNAmClockCortical,LinearMethylationModel,Human,Human Cortex,Human Cortex Age (Years),DNAmClockCortical.csv,2020,https://doi.org/10.1093/brain/awaa334
+GrimAgeV1,GrimageModel,Human,Blood,Mortality Adjusted Age (Years),GrimAgeV1.csv,2019,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6366976/
+GrimAgeV2,GrimageModel,Human,Blood,Mortality Adjusted Age (Years),GrimAgeV2.csv,2022,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9792204/
+VidalBralo,LinearMethylationModel,Human,Blood,Age (Years),VidalBralo.csv,2018,https://doi.org/10.3389/fgene.2016.00126
+AlcoholMcCartney,LinearMethylationModel,Human,Blood,Alcohol Consumption,Alcohol.csv,2018,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6158884/
+DNAmTL,LinearMethylationModel,Human,"Blood, Adipose",Telomere Length,DNAmTL.csv,2019,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6738410/
+HRSInCHPhenoAge,LinearMethylationModel,Human,Blood,Age (Years),HRSInCHPhenoAge.csv,2022,https://www.nature.com/articles/s43587-022-00248-2
+Knight,LinearMethylationModel,Human,Cord Blood,Gestational Age,Knight.csv,2016,https://genomebiology.biomedcentral.com/articles/10.1186/s13059-016-1068-z
+LeeControl,LinearMethylationModel,Human,Placenta,Gestational Age,LeeControl.csv,2019,https://www.aging-us.com/article/102049/text
+SexEstimation,SexEstimationModel,Human,Blood,Sex,estimateSex.csv,2021,https://bmcgenomics.biomedcentral.com/articles/10.1186/s12864-021-07675-2
+EpiTOC1,LinearMethylationModel,Human,Blood,Stem Cell Division Rate,EpiTOC1.csv,2016,https://doi.org/10.1186/s13059-016-1064-3
+EpiTOC2,EpiTOC2Model,Human,Blood,Stem Cell Division Rate,EpiTOC2.csv,2020,https://doi.org/10.1186/s13073-020-00752-3
+LeeRefinedRobust,LinearMethylationModel,Human,Placenta,Gestational Age,LeeRefinedRobust.csv,2019,https://www.aging-us.com/article/102049/text
+LeeRobust,LinearMethylationModel,Human,Placenta,Gestational Age,LeeRobust.csv,2019,https://www.aging-us.com/article/102049/text
+SmokingMcCartney,LinearMethylationModel,Human,Blood,Smoking Status,Smoking.csv,2018,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6158884/
+DownSyndrome,LinearMethylationModel,Human,Blood,Down Syndrome Prediction,down_syndrome.csv,2021,https://www.nature.com/articles/s41467-021-21064-z
+DeconvoluteBlood450K,DeconvolutionModel,Human,Blood,Cell Proportions,450K_reinius_12_reference.csv,2024,https://www.biorxiv.org/content/10.1101/2023.12.02.569722v6
+DeconvoluteBloodEPIC,DeconvolutionModel,Human,Blood,Cell Proportions,EPIC_salas_18_reference.csv,2024,https://www.biorxiv.org/content/10.1101/2023.12.02.569722v6
+TwelveCellDeconvoluteBloodEPIC,DeconvolutionModel,Human,Blood,Cell Proportions,twelve_cell_deconv.csv,2024,https://www.biorxiv.org/content/10.1101/2023.12.02.569722v6
+StocZ,LinearMethylationModel,Human,Blood,Mortality Risk,StocZ.csv,2024,https://doi.org/10.1038/s43587-024-00600-8
+BMI_McCartney,LinearMethylationModel,Human,Blood,BMI,BMI_McCartney.csv,2018,https://doi.org/10.1186/s13059-018-1514-1
+EducationMcCartney,LinearMethylationModel,Human,Blood,Educational Attainment,EducationMcCartney.csv,2018,https://doi.org/10.1186/s13059-018-1514-1
+TotalCholesterolMcCartney,LinearMethylationModel,Human,Blood,Total Cholesterol,TotalCholesterolMcCartney.csv,2018,https://doi.org/10.1186/s13059-018-1514-1
+HDLCholesterolMcCartney,LinearMethylationModel,Human,Blood,HDL Cholesterol,HDLCholesterolMcCartney.csv,2018,https://doi.org/10.1186/s13059-018-1514-1
+LDLCholesterolMcCartney,LinearMethylationModel,Human,Blood,LDL with Remnant Cholesterol,LDLCholesterolMcCartney.csv,2018,https://doi.org/10.1186/s13059-018-1514-1
+BodyFatMcCartney,LinearMethylationModel,Human,Blood,Percentage Body Fat,BodyFatMcCartney.csv,2018,https://doi.org/10.1186/s13059-018-1514-1
+BMI_Reed,LinearMethylationModel,Human,Blood,BMI,BMI_Reed.csv,2020,https://doi.org/10.1186/s13148-020-00841-5
+StocP,LinearMethylationModel,Human,Blood,Age (Years),StocP.csv,2024,https://doi.org/10.1038/s43587-024-00600-8
+Mayne,LinearMethylationModel,Human,Placenta,Gestational age,Mayne.csv,2016,https://doi.org/10.2217/epi-2016-0103
+ProstateCancerKirby,LinearMethylationModel,Human,Prostate,Prostate Cancer Status,ProstateCancerKirby.csv,2017,https://doi.org/10.1186/s12885-017-3252-2
+AltumAge,AltumAgeModel,Human,Multi-tissue,Age (Years),AltumAge.csv,2022,https://doi.org/10.1038/s41514-022-00085-y
+HepatoXu,LinearMethylationModel,Human,Circulating DNA,Hepatocellular Carcinoma Status,HepatoXu.csv,2017,https://doi.org/10.1038/nmat4997
+CVD_Westerman,LinearMethylationModel,Human,Blood,Coronary Heart Disease Status,CVD_Westermann.csv,2020,https://doi.org/10.1161/JAHA.119.015299
+StocH,LinearMethylationModel,Human,Multi-tissue,Age (Years),StocH.csv,2024,https://doi.org/10.1038/s43587-024-00600-8
+AD_Bahado-Singh,LinearMethylationModel,Human,Blood,Alzheimer's Disease Status,AD_Bahado-Singh.csv,2021,https://doi.org/10.1371/journal.pone.0248375
+DepressionBarbu,LinearMethylationModel,Human,Blood,Depression Risk,DepressionBarbu.csv,2021,https://doi.org/10.1038/s41380-020-0808-3
+Weidner,LinearMethylationModel,Human,Blood,Age (Years),Weidner.csv,2014,https://doi.org/10.1186/gb-2014-15-2-r24
+TranscriptomicPredictionModel,LinearTranscriptomicModel,Human,Blood,Age (Years),TranscriptomicPrediction.csv,2015,https://www.nature.com/articles/ncomms9570
+Garagnani,LinearMethylationModel,Human,Blood,Age (Years),Garagnani.csv,2012,https://pubmed.ncbi.nlm.nih.gov/23061750/
+OrganAgeChronological,LinearMultipartProteomicModel,Human,Blood,Mortality Risk by Organ,OrganAgeChronological.csv,2024,https://www.medrxiv.org/content/10.1101/2024.04.08.24305469v1
+OrganAgeMortality,LinearMultipartProteomicModel,Human,Blood,Age (Years) by Organ,OrganAgeMortality.csv,2024,https://www.medrxiv.org/content/10.1101/2024.04.08.24305469v1
+OrganAge1500Chronological,LinearMultipartProteomicModel,Human,Blood,Mortality Risk by Organ,OrganAge1500Chronological.csv,2024,https://www.medrxiv.org/content/10.1101/2024.04.08.24305469v1
+OrganAge1500Mortality,LinearMultipartProteomicModel,Human,Blood,Age (Years) by Organ,OrganAge1500Mortality.csv,2024,https://www.medrxiv.org/content/10.1101/2024.04.08.24305469v1
+Bohlin,LinearMethylationModel,Human,Cord Blood,Age (days),Bohlin.csv,2017,https://doi.org/10.1186/s13059-016-1063-4
+Bocklandt,LinearMethylationModel,Human,Blood,Age (years),Bocklandt.csv,2011,https://doi.org/10.1371/journal.pone.0014821
+MiAge,MiAgeModel,Human,Blood,Mitotic Age (Cell Divisions),MiAge.csv,2018,https://doi.org/10.1080/15592294.2017.1389361
+PCHorvath1,PCLinearTransformationModel,Human,Multi-tissue,Age (Years),https://storage.googleapis.com/biolearn/PCClock/PCHorvath1_model.csv,2022,https://doi.org/10.1038/s43587-022-00248-2
+HurdleInflammAge,HurdleAPIModel,Human,Blood,InflammAge,,2024,https://hurdle.bio/our-science/
+Pasta,LinearTranscriptomicModel,Human,Multi-tissue,Age score,Pasta.csv,2025,https://www.biorxiv.org/content/10.1101/2025.06.04.657785v1.full
+REG,LinearTranscriptomicModel,Human,Multi-tissue,Age (years),REG.csv,2025,https://www.biorxiv.org/content/10.1101/2025.06.04.657785v1.full
